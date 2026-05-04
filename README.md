@@ -10,7 +10,7 @@
 
 <br><br>
 
-## 🛠️ Tecnologías y Herramientas
+## Tecnologías y Herramientas
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -18,30 +18,7 @@
   </a>
 </p>
 
-<br>
-
-## 🚀 Proyectos Destacados
-
-<table align="center" style="border: none;">
-  <tr>
-    <td width="50%" align="center" style="border: none;">
-      <a href="https://github.com/pedro-abdiel/serviceflow">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=pedro-abdiel&repo=serviceflow&theme=transparent&bg_color=00000000&border_color=2196F3&show_owner=true" alt="ServiceFlow" />
-      </a>
-      <p><i>Plataforma PaaS para empresas de servicios.</i></p>
-    </td>
-    <td width="50%" align="center" style="border: none;">
-      <a href="https://github.com/pedro-abdiel/restflow">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=pedro-abdiel&repo=restflow&theme=transparent&bg_color=00000000&border_color=2196F3&show_owner=true" alt="RestFlow" />
-      </a>
-      <p><i>Sistema POS y delivery para restaurantes.</i></p>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-## 📊 Estadísticas
+## Estadísticas
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pedroxd12&show_icons=true&theme=transparent&hide_border=true&title_color=2196F3&icon_color=2196F3" alt="GitHub Stats" width="48%" />
@@ -50,7 +27,7 @@
 
 <br>
 
-## 🤝 Conectemos
+## Conectemos
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pedro-abdiel-villatoro-chávez">
